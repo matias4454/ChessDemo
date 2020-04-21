@@ -17,8 +17,6 @@ export class ChessGame extends Component {
             figurePosition: "",
             initialPosition: "",
             initialState: true
-
-
         };
     }
 
