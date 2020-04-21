@@ -1,0 +1,47 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    border: none;
+}
+.fdark {
+    background-color: #8a1212;
+}
+.fwhite {
+    background-color: #f8ac94;
+}
+.favailable-white {
+    background-color: #00ff21;
+    border: dashed;
+    border-color: #f8ac94;
+}
+.favailable-dark {
+    background-color: #00ff21;
+    border: dashed;
+    border-color: #8a1212;
+}
+.finitial-white {
+    background-color: #ff0000;
+    border: dashed;
+    border-color: #f8ac94;
+}
+.finitial-dark {
+    background-color: #ff0000;
+    border: dashed;
+    border-color: #8a1212;
+}
+
